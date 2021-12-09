@@ -1,0 +1,84 @@
+{
+    "player_stats": [
+        {
+            "firstName": "Eric",
+            "lastName": "Haaland",
+            "rating": 90,
+            "position": "ST",
+            "countryFlag": "./src/Image/norway.png",
+            "team": "./src/Image/bvb.svg",
+            "image": "./src/Image/player.png",
+            "attributes": [
+                 {
+                    "acceleration": 92,
+                    "Sprint_Speed": 91
+                },
+                {
+                    "positioning": 85,
+                    "finishing": 90,
+                    "Shot_Power": 90,
+                    "Long_Shots": 83,
+                    "volleys": 84,
+                    "penalties": 73,
+                },
+                {
+                    "vision": 93,
+                    "crossing": 81,
+                    "FK_ACC": 92,
+                    "Short_Pass": 96,
+                    "Long_Pass": 83,
+                    "curve": 97
+                },
+                {
+                    "agility": 81,
+                    "balance": 80,
+                    "reactions": 91,
+                    "Ball_Control": 87,
+                    "dribbling": 82,
+                    "composure": 88
+                },
+                {
+                    "interceptions": 44,
+                    "Heading_ACC": 71,
+                    "Def_Awareness": 45,
+                    "Stand_Tackle": 44,
+                    "Slide_Tackle": 31
+                },
+                {
+                    "jumping": 80,
+                    "stamina": 87,
+                    "strength": 96,
+                    "aggression": 88
+                }
+            ],
+            "marketValue": 150000000,
+            "releaseClause": 350000000
+        }
+    ],
+    "transfer_Offers": [
+        {
+            "team": "Real Madrid",
+            "country": "Spain",
+            "lowest": 850000000,
+            "highest": 100000000
+        },
+        {
+            "team": "Arsenal FC",
+            "country": "England",
+            "lowest": 950000000,
+            "highest": 110000000
+        },
+        {
+            "team": "Man City FC",
+            "country": "England",
+            "lowest": 150000000,
+            "highest": 240000000
+        },
+        {
+            "team": "Chelsea FC",
+            "country": "England",
+            "lowest": 100000000,
+            "highest": 200000000
+        }
+    ]
+}
